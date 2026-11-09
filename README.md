@@ -88,7 +88,3 @@ Run the notebook to fill in your own numbers. Test-set results are printed in Se
 ## Data source
 
 Give Me Some Credit, Kaggle competition dataset. Check the competition page for its terms of use before redistributing the data.
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
