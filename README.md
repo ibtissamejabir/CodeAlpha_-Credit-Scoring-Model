@@ -47,14 +47,6 @@ Download `cs-training.csv` from the [Give Me Some Credit competition page](https
 jupyter notebook credit_scoring.ipynb
 ```
 
-In Section 1, set the path to your file:
-
-```python
-CSV_PATH = "cs-training.csv"
-```
-
-Set `CSV_PATH = None` to use the built-in synthetic dataset instead. Running all cells takes a few minutes on the full dataset, mostly because of cross-validation on the Random Forest.
-
 ## Results
 
 Run the notebook to fill in your own numbers. Test-set results are printed in Section 5.
